@@ -7,8 +7,8 @@
  
  - :iphone: Mobile development with React Native and Flutter;
  - :computer: Web development with VueJS and ReactJS;
- - :closed_lock_with_key: Backend development majoritarily with NodeJS.
- - :construction: Always descovering something new about Animations :heart: , State control (Redux, VueX), Conventional Commits, Clean Code, TDD and other pontual topics;
+ - :closed_lock_with_key: Backend development majoritarily with NodeJS;
+ - :construction: Always descovering something new about Animations :heart: , State management (Redux & VueX), Conventional Commits, Clean Code, TDD and other pontual topics;
  - :dog: and :cat: person;
  
 ## :chart_with_upwards_trend: Open Source Work Stats
