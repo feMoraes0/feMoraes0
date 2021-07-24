@@ -1,7 +1,7 @@
 
 # Hi guys :wave:
 
-<p align="left">I'm Fernando Moraes, Javascript and Typescript developer who has been currently working as Junior Developer at Vivo (Telefonica Brasil) with VueJS, NodeJS and sometimes Python. Here, on GitHub, I'm always coding new projets to apply and learn more about languages, frameworks or libraries which can help me to be a better developer.</p>
+<p align="left">I'm Fernando Moraes, Javascript and Typescript developer who has been currently working as Full-stack Developer at Vivo (Telefonica Brasil) with VueJS, NodeJS and sometimes Python. Here, on GitHub, I'm always coding new projets to apply and learn more about languages, frameworks or libraries which can help me to be a better developer.</p>
  
 ## :mag: Interests
  
