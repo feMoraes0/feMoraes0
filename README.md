@@ -5,7 +5,7 @@
  
 ## :mag: Interests
  
- - :iphone: Mobile development with React Native and Flutter;
+ - :iphone: Mobile development with React Native;
  - :computer: Web development with VueJS and ReactJS;
  - :closed_lock_with_key: Backend development majoritarily with NodeJS;
  - :construction: Always descovering something new about Animations :heart: , State management (Redux & VueX), Conventional Commits, Clean Code, TDD and other pontual topics;
